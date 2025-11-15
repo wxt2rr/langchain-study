@@ -1,2 +1,0 @@
-# langchain-study
-langchain-study
